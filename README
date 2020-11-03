@@ -1,4 +1,4 @@
-This program create an inverted-index based on cacm data. I've included the data folder so you wouldn't have to search more. I've also included the report which is a PDF file. 
+This program creates an inverted-index based on cacm data. I've included the data folder so you wouldn't have to search more. I've also included the report which is a PDF file. 
 
 Run: python IR_InvertedIndex.py
 
